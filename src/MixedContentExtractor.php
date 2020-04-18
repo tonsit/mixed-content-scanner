@@ -66,6 +66,7 @@ class MixedContentExtractor
             ['source', 'src'],
             ['source', 'srcset'],
             ['video', 'src'],
+            ['table', 'background'],
         ]);
     }
 
